@@ -10,6 +10,6 @@ Easy to use Workflow to open Zendesk Tickets via Alfred.
 # Usage
 
 Activate Alfred and type `zendesk` and enter the Ticket ID.
+This will open your browser in a new tab/window.
 
-
-*This will open your browser in a new tab/window.*
+**This Workflow is not official related to [Zendesk](https://www.zendesk.com/)!**
